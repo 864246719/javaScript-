@@ -1,3 +1,4 @@
+一：react专有名词解释
 react's ultimate purpose :is to show content(HTML) to users and handle user interaction
 javascript's calss  : javascript function or classes
 screen change:user interaction
@@ -8,9 +9,8 @@ Libraries: react,react-dom
 node -v
 nodejs.org/en/download  
   
+二：
 
-npm install -g create-react-app 
-create-react-app jsx
 
 node_modules:contains all dependences
 package-lock.json  :record dependences and configure our project
@@ -18,8 +18,10 @@ readme.md :how to use this project
 src: put all source code we write 
 public stores static files ,like image
 
-
-run projcet :
+三：1 create react project
+npm install -g create-react-app 
+create-react-app jsx
+2:run and stop react app :
 cd projectName
 npm start   会出现页面网址
 ctrl + c 停止
