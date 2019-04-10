@@ -1,0 +1,27 @@
+react's ultimate purpose :is to show content(HTML) to users and handle user interaction
+javascript's calss  : javascript function or classes
+screen change:user interaction
+Libraries: react,react-dom
+  react make components work together
+  ractdom konws how to take a components and  make it show up in  
+  
+node -v
+nodejs.org/en/download  
+  
+
+npm install -g create-react-app 
+create-react-app jsx
+
+node_modules:contains all dependences
+package-lock.json  :record dependences and configure our project
+readme.md :how to use this project
+src: put all source code we write 
+public stores static files ,like image
+
+
+run projcet :
+cd projectName
+npm start   会出现页面网址
+ctrl + c 停止
+
+开两个npm start 此时第一个port 需要改成on your network 而不是local:3000
