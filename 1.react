@@ -5,7 +5,7 @@ screen change:user interaction
 Libraries: react,react-dom
   react make components work together
   ractdom konws how to take a components and  make it show up in  
-  
+component ：class/function
 node -v
 nodejs.org/en/download  
   
@@ -27,3 +27,5 @@ npm start   会出现页面网址
 ctrl + c 停止
 
 开两个npm start 此时第一个port 需要改成on your network 而不是local:3000
+
+四： start a demo js
