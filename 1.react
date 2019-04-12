@@ -26,6 +26,7 @@ cd projectName
 npm start   会出现页面网址
 ctrl + c 需要停止，不停止会再次创建另一个port
 当编译错误的时候> 可以打开另一个终端>....
+ cpu 足够
 
 开两个npm start 此时第一个port 需要改成on your network 而不是local:3000
 
