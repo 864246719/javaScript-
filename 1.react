@@ -28,7 +28,7 @@ notice:
 1,ctrl + c 需要停止，不停止会再次创建另一个port
 2,当编译错误的时候> 可以打开另一个终端>....
 3,cpu 足够  
-4,连接网络
+4,连接网络，没有proxy
 
 开两个npm start 此时第一个port 需要改成on your network 而不是local:3000
 
